@@ -10,6 +10,10 @@ The script, along with additional modules, serves the following purposes:
 6) Storing the calculated data in the database
 7) Presenting basic charts.
 
+## Demo Video
+
+Explore the functionality of Invest-Tracker by watching demo video wich is part of repository [Invest_tracker_gui.mp4]. This brief presentation provides an overview of the application's features.
+
 ## Modules:
 - `csv`: Module for reading and writing CSV files.
 - `sqlite3`: Module for interacting with SQLite database.
